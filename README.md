@@ -1,1 +1,0 @@
-# Playwright_Restaurant_Automation
